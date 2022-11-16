@@ -1,7 +1,7 @@
 # webfont
 hosting BodoniMT webfont
 
-Add this code to <head>
+Add this code to head tag:
 
 <!DOCTYPE html>
 <html>
